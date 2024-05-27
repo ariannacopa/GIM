@@ -42,18 +42,31 @@ https://ariannacopa.github.io/GIM/esercizio_1A/spostamento_3.html
 
 ### Esercizio_1B
 cartella_immagini
+
 https://ariannacopa.github.io/GIM/esercizio_1B/img
+
 cartella_js
+
 https://ariannacopa.github.io/GIM/esercizio_1B/js
+
 index.html
+
 https://ariannacopa.github.io/GIM/esercizio_1B/dittico_interattivo.html
 
 ### Esercizio_1C
 https://ariannacopa.github.io/GIM/esercizio_1C/commento
 
 ### Esercizio_2
+cartella_immagini
+
 https://ariannacopa.github.io/GIM/esercizio_2/img
+
+cartella_js
+
 https://ariannacopa.github.io/GIM/esercizio_2/js
+
+animazione_logo
+
 https://ariannacopa.github.io/GIM/esercizio_2/animazione_logo.html
 
 ### Esercizio_3A
@@ -61,10 +74,15 @@ https://ariannacopa.github.io/GIM/esercizio_3/esercizio_3A/index.html
 
 ### Esercizio_3B
 neve
+
 https://ariannacopa.github.io/GIM/esercizio_3/esercizio_3B/neve/index.html
+
 pioggia
+
 https://ariannacopa.github.io/GIM/esercizio_3/esercizio_3B/pioggia/index.html
+
 pong
+
 https://ariannacopa.github.io/GIM/esercizio_3/esercizio_3B/pong/index.html
 
 
