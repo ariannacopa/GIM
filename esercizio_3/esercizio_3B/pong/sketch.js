@@ -56,11 +56,11 @@ function draw() {
   }
 
   // inizio del ciclo for per disegnare la traccia che viene lasciata dal rettangolo in base alla sua posizione
-    for (let i = 0; i < trail.length; i++) { // il ciclo attraversa tutti gli elementi dell'array. viene creata la variabile i, che inizia a 0 ed aumenterà di 1 ad ogni iterazione finchè non raggiunge la lunghezza dell'array
-    let alpha = map(i, 0, trail.length, 255, 0); // creazione del canale alpha per opacità, mappando i (posizione del rettangolo) da un'intervallo da 0 alla lunghezza della traccia e da 255 a 0, in modo che man mano l'opacità diminuirà
-    fill(trail[i].r, trail[i].g, trail[i].b, alpha);// riempimento specificato utilizzando i valori RGB dalla posizione corrispondente nella traccia e l'opacità calcolata
+    for (let z = 0; z < trail.length; z++) { // il ciclo attraversa tutti gli elementi dell'array. viene creata la variabile z, che inizia a 0 ed aumenterà di 1 ad ogni iterazione finchè non raggiunge la lunghezza dell'array
+    let alpha = map(z, 0, trail.length, 255, 0); // creazione del canale alpha per opacità, mappando z (posizione del rettangolo) da un'intervallo da 0 alla lunghezza della traccia e da 255 a 0, in modo che man mano l'opacità diminuirà
+    fill(trail[z].r, trail[z].g, trail[z].b, alpha);// riempimento specificato utilizzando i valori RGB dalla posizione corrispondente nella traccia e l'opacità calcolata
     noStroke();
-    rect(trail[i].x, trail[i].y, trail[i].rectWidth, trail[i].rectHeight); // rettangolo disegnato alla posizione della traccia: coordinate della posizione e larghezza e altezza
+    rect(trail[z].x, trail[z].y, trail[z].rectWidth, trail[z].rectHeight); // rettangolo disegnato alla posizione della traccia: coordinate della posizione e larghezza e altezza
   }
 
   // creazione del rettangolo
