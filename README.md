@@ -29,10 +29,11 @@ https://ariannacopa.github.io/GIM/esercizio_1A/spostamento_3.html
 
 
 ### Esercizio_1B
-index.html
+dittico_interattivo
 https://ariannacopa.github.io/GIM/esercizio_1B/dittico_interattivo.html
 
 ### Esercizio_1C
+commento
 https://ariannacopa.github.io/GIM/esercizio_1C/README.md
 
 ### Esercizio_2
