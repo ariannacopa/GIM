@@ -29,7 +29,7 @@ index.html
 https://ariannacopa.github.io/GIM/esercizio_1B/dittico_interattivo.html
 
 ### Esercizio_1C
-https://ariannacopa.github.io/GIM/esercizio_1C
+https://ariannacopa.github.io/GIM/esercizio_1C/commento.md
 
 ### Esercizio_2
 animazione_logo
