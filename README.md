@@ -1,5 +1,6 @@
 # GIM
 Corso di Grafica in Movimento - SUPSI
+
 # 
 
 ### Esercizio_1A
@@ -27,22 +28,31 @@ https://ariannacopa.github.io/GIM/esercizio_1A/spostamento_2.html
 spostamento_3
 https://ariannacopa.github.io/GIM/esercizio_1A/spostamento_3.html
 
+# 
 
 ### Esercizio_1B
 dittico_interattivo
 https://ariannacopa.github.io/GIM/esercizio_1B/dittico_interattivo.html
 
+#
+
 ### Esercizio_1C
 commento
 https://ariannacopa.github.io/GIM/esercizio_1C/README.md
+
+#
 
 ### Esercizio_2
 animazione_logo
 https://ariannacopa.github.io/GIM/esercizio_2/animazione_logo.html
 
+#
+
 ### Esercizio_3A
 orologio_digitale
 https://ariannacopa.github.io/GIM/esercizio_3/esercizio_3A/index.html
+
+#
 
 ### Esercizio_3B
 neve
